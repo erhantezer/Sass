@@ -1,7 +1,21 @@
 *{
     margin: 0;
 }
+
+
+//! Variable Declaration  
+$bgColor: pink;
+$fontColor: white;
+$fontSize: 1.2rem;
+$fontFamily: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+$navBgColor: #30a7c3;
+$myBorder: 2px solid rgb(175, 29, 29);
+$myLinkSize: 19px;
+$bannerBgColor: #cc6699;
+
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  }
-  
+font-family: $fontFamily;
+background-color: $bgColor ;
+color: $fontColor;
+font-size: $fontSize;
+}
