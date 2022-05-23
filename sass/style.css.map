@@ -1,1 +1,9 @@
-{"version":3,"sourceRoot":"","sources":["style.scss"],"names":[],"mappings":"AAIA;EACI;;AAEC;EACI;;AACA;EACI","file":"style.css"}
+{
+    "version": 3,
+    "mappings": "AAIA,AAAA,GAAG,CAAA;EACC,gBAAgB,EAAE,GAAG;CASxB;;AAVD,AAGK,GAHF,CAEC,EAAE,CACD,EAAE,CAAA;EACE,eAAe,EAAE,IAAI;CAIxB;;AARN,AAKS,GALN,CAEC,EAAE,CACD,EAAE,CAEE,CAAC,CAAA;EACG,KAAK,EAAE,WAAW;CACrB",
+    "sources": [
+        "tyle.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
