@@ -1,0 +1,7 @@
+@mixin navbar($height,$justify){
+    background-color: $navColor;
+    color: $textColor;
+    height: $height;
+    display: flex;
+    justify-content: $justify;
+}

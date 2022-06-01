@@ -1,8 +1,17 @@
 {
     "version": 3,
-    "mappings": "",
+    "mappings": "AGAA,AAAA,CAAC,CAAA;EACG,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,UAAU,EAAE,UAAU;CACzB",
     "sources": [
-        "tyle.scss"
+        "tyle.scss",
+        "bstracts/_mixin.scss",
+        "bstracts/_veriables.scss",
+        "ase/_reset.scss",
+        "omponents/_footer.scss",
+        "omponents/_nav.scss",
+        "omponents/_responsive.scss",
+        "ages/_home.scss",
+        "ages/_about.scss",
+        "ages/_services.scss"
     ],
     "names": [],
     "file": "style.css"
